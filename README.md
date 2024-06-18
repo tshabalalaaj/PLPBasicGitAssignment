@@ -20,37 +20,37 @@
     ```
 
 3. Git Initialization:
-  - Initialized a new Git repository in your local folder.
-    ```
-    git init
-    ```
+    - Initialized a new Git repository in your local folder.
+        ```
+        git init
+        ```
 
 4. Connecting to GitHub:
-  - Linked my local repository to the GitHub repository i created in Task 1.
-   ```
-    git remote add origin <https://github.com/tshabalalaaj/PLPBasicGitAssignment.git>
-   ```
+    - Linked my local repository to the GitHub repository i created in Task 1.
+    ```
+        git remote add origin <https://github.com/tshabalalaaj/PLPBasicGitAssignment.git>
+    ```
 
 5. Create a File:
-  - Inside my local folder, I created a new text file named hello.txt with the greeting message "Hello, Git!".
-  ```
-  touch hello.txt
-  echo "Hello, Git!" > hello.txt
-  ```
+    - Inside my local folder, I created a new text file named hello.txt with the greeting message "Hello, Git!".
+    ```
+    touch hello.txt
+    echo "Hello, Git!" > hello.txt
+    ```
 
 6. Committing Changes:
-  - Stage the changes.
-   ```
-   git add hello.txt
-   ```
-  - Commit the changes.
-   ```
-   git commit -m "Add hello.txt with a greeting"
-   ```
+    - Stage the changes.
+    ```
+    git add hello.txt
+    ```
+    - Commit the changes.
+    ```
+    git commit -m "Add hello.txt with a greeting"
+    ```
 
 7. Pushing to GitHub:
-  - Push the committed changes to my GitHub repository.
+    - Push the committed changes to my GitHub repository.
 
-   ```
-   git push -u origin main
-   ```
+    ```
+    git push -u origin main
+    ```
