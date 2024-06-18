@@ -11,7 +11,7 @@
     - cd into the directory where I want to create the Git repository e.g Documents/PLP_Projects.
     - Create a local git folder PLPBasicGitAssignment inside my PLP_Projects folder using mkdir command
     - navigate into the created new Git repository using cd command.
-    - git init command line steps:
+    - command line steps:
     ```
     ctrl + alt + T #to open command line.
     cd Documents/PLP_Projects/
