@@ -2,9 +2,9 @@
 
 1. GitHub Repository Creation:
 
-  - I Logged in to my GitHub account.
-  - Created a new repository called "PLPBasicGitAssignment".
-  - Initialize it with a README file.
+    - I Logged in to my GitHub account.
+    - Created a new repository called "PLPBasicGitAssignment".
+    - Initialize it with a README file.
 
 2. Local Folder Setup:
     -open a terminal or command prompt.
